@@ -1,5 +1,5 @@
 # m31-frame
-Python code for converting RA and dec to M31-centric galactic coordinates
+Python code for converting RA and dec to M31-centric galactic coordinates. Written in collaboration with Paula Gherghinescu.
 
 # Description
 
